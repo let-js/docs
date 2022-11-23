@@ -6,3 +6,4 @@
 
 ## 设计思想白皮书
 [设计思想白皮书](./letjs-whitepaper.md)
+[设计思想白皮书PDF](./letjs-whitepaper.pdf)
