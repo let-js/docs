@@ -26,7 +26,7 @@
 
   <img src="./img/structure-ddd.png" style="width:70%">
 
-  工程目录结构。主要目录结构如下图所示，详细结构请参加Letjs工程代码和例子。
+  工程目录结构如下图所示，详细结构请参加Letjs工程代码和例子。
 
   <img src="./img/directory-structure.png" style="width:70%">
 
@@ -41,6 +41,7 @@
 
   ### 运行代码
   `npm install`
+  
   `npm run dev`
 
   ## 查看效果
