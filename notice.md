@@ -22,7 +22,7 @@
   3. 增强规范和提升效率。团队内部技术不统一，各种新技术和类库随意使用，项目不易维护和交接，且效率低下。Letjs提供工具来帮助统一结构，并用工具来初始化代码，提升开发效率。
 
 ## Letjs工程目录结构
-  将代码按照展现、业务处理、接口等进行分层，并根据领域模型划分数据模型和视图模型等，业务开发围绕以领域为核心。
+  将代码按照展现、业务处理、接口等进行分层，并根据DDD领域驱动划分数据模型和视图模型等，业务开发围绕以领域为核心。
 
   <img src="./img/structure-ddd.png" style="width:70%">
 
@@ -31,18 +31,18 @@
   <img src="./img/directory-structure.png" style="width:70%">
 
 ## Letjs下载与使用
-  如果您要使用letjs结构进行项目开发，请安装 `letjs-cli` 工具。  详见：[letjs-cli安装指导](https://let-js.github.io/guide/#%E5%AE%89%E8%A3%85-letjs-cli)
+  使用Letjs初始化项目代码，请安装 `letjs-cli` 工具。  详见：[letjs-cli安装指导](https://let-js.github.io/guide/#%E5%AE%89%E8%A3%85-letjs-cli) https://let-js.github.io/guide
   
   ### cli安装
   `$ npm install -g @let-js/letjs-cli`
 
   ### 初始化工程
-  `letjs init demo-app`
+  `$ letjs init demo-app`
 
   ### 运行代码
-  `npm install`
+  `$ npm install`
   
-  `npm run dev`
+  `$ npm run dev`
 
   ## 查看效果
   <img src="./img/letjs-welcome.png" style="width:80%">
@@ -53,6 +53,7 @@
 
 ## 设计思想白皮书
 [设计思想白皮书PDF](https://github.com/let-js/docs/blob/main/letjs-whitepaper.pdf) 
+下载地址：https://github.com/let-js/docs
 
 ## 联系方式
 欢迎扫码加群，一起探讨前端工程化：
