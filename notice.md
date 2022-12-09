@@ -7,7 +7,7 @@
 
 ## 前端工具类库种类繁多
     前端开发框架和类库有很多，早期的PrototypeJS、YUI、Mooltools、ExtJS、Dojo等风靡一时，后来jQuery独占鳌头，垄断了前端开发。
-    2010左右Backbone流行过一阵子，近几年比较流行的有Angular以及React和Vue、Svelte等。
+    2010年左右Backbone开始流行，近几年流行的有Angular以及React和Vue、Svelte等。
     UI库就更多了，Bootstrap、Material Design、Ant Design、Element UI等，可谓非常繁荣，相关工具链就更多了。
 
   <img src="./img/tool-chain.png">
