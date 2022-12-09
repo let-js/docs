@@ -5,7 +5,7 @@
 	Let's use js, write js, love js.
 	
 # 为什么要有Letjs？
-  请访问：[Letjs前端体系，助你快速搭建前端页面](./notice.md)
+  请访问：[Letjs前端工程化体系，助你快速搭建页面](./notice.md)
 
 ## Letjs站点
   请访问：[https://let-js.github.io](https://let-js.github.io)
