@@ -56,6 +56,9 @@ author: Letjs开发组  &nbsp;&nbsp; 日期：2022-11
 #### components
     - 首字母大写，根据功能按多个词组组成。组件按照习惯首字母大写，类似一个封装的对象。
 
+#### composition
+    - 以模块或公共功能命名。为页面和组件提供通用的组合函数。
+
 #### domain
     - 按业务抽象，首字母大写。domian里面主要是各种Model和Modelservice，由Class组成。
 
